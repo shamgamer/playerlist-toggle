@@ -29,3 +29,5 @@ Change `enabled` to `false` to disable the toggle behavior.
 ## Notes
 
 This project intentionally avoids extra config libraries and Mod Menu so it stays small.
+
+note: this entire readme was also created by chatgpt in the initial zip lol
