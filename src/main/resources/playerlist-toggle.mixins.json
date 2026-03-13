@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "win.kakchuserver.playerlisttoggle.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "KeyBindingAccessor",
+    "KeyBindingMixin"
+  ],
+  "client": [
+    "KeyBindingAccessor",
+    "KeyBindingMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
