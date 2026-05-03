@@ -1,6 +1,6 @@
 # Player List Toggle
 
-Tiny client-side Fabric mod for Minecraft 1.21.11.
+Tiny client-side Fabric mod for Minecraft 26.1.x.
 
 It changes the player list key from hold-to-show into toggle-to-show.
 
